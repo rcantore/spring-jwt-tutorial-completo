@@ -727,7 +727,7 @@ spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
 
 ## 👨‍💻 Autor
 
-**CebandoIdeas**
+**Roberto Cantore Galvez**
 - Tutorial educativo para aprender Spring Boot Security con JWT
 - Enfoque en buenas prácticas y código limpio
 - Documentación completa en español
