@@ -81,8 +81,8 @@ sequenceDiagram
 
 1. **Clonar el repositorio**
    ```bash
-   git clone <url-del-repositorio>
-   cd jwt-spring-boot-example
+   git clone https://github.com/rcantore/spring-jwt-tutorial-completo.git
+   cd spring-jwt-tutorial-completo
    ```
 
 2. **Compilar el proyecto**
